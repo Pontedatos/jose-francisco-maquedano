@@ -23,10 +23,10 @@ En la práctica 3 utilizamos Jupyter para elaborar notebooks en dicha plataforma
 Enlaces:
 
 - [Explicación de la práctica 3](practica-3.md)
-- [API COVID 19 Pandas en html]
+- [API COVID 19 Pandas en html](pyhthon-api-covid19-pandas.html)
 - [API COVID 19 Pandas en ipynb](python-api-covid19-pandas.ipynb)
 - [API Pandas Folium en ipynb](api-pandas-folium.ipynb)
-- [API Pandas folium en html]
+- [API Pandas folium en html](api-pandas-folium.html)
 - [Pruebas con python en ipynb](python-prueba.ipynb)
 
 #### Práctica 4
