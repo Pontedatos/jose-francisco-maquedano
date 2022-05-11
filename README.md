@@ -37,6 +37,7 @@ Enlaces:
 - [Pago por contratación de medios en Zaragoza en ipynb](practica-4.ipynb)
 - [Pago por contratación de medios en Zaragoza en html](practica-4.html) 
 - [Explicación de la práctica 4](practica-4.md)
+- [Datos del gasto de mediación del Ayuntamiento de Zaragoza con los medios](gasto-mediacion_prensa-2011-2017.csv)
 
 #### Anexo
 Además en este mismo repositorio se encuentra un archivo que muestra la metodología que se ha empleado a lo largo del curso: [Metodología](metodologia.md)
