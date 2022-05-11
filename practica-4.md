@@ -1,3 +1,3 @@
 ## PRÁCTICA 4
 La práctica 4 consiste en una investigación en una base de datos gracias a Jupyter en Python. En este caso he escogido una base de datos y un archivos csv que contiene el pago del [Ayuntamiento de Zaragoza](https://www.zaragoza.es/sede/) a los distintos medios de comunicación de la comunidad. Incluye varias tablas de visualización y un gráfico final para comparar alguno de los medios visualizados.
-
+Es necesario indicar que el [archivo de datos en CSV](gasto-mediacion_prensa-2011-2017.csv) al estar pensado para que tenga varias columnas, el visualizador por defecto de git no lo lee adecuadamente. Sin embargo, dejo de la misma manera el archivo subido y ademas se puede encontrar en este [link](http://www.zaragoza.es/contenidos/gobierno-abierto/transparencia/Gasto_mediacion_prensa_2011-2017.csv)
