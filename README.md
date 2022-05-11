@@ -15,28 +15,28 @@ En la práctica 2 teníamos que buscar algun trabajo de periodismo de datos o re
 
 Enlace: 
 
-- [El conflicto acrual entre Rusia y Ucrania ponen de manifiesto la gran desinformación en este tipo de situaciones](practica-2.md)
+- [El conflicto actual entre Rusia y Ucrania ponen de manifiesto la gran desinformación en este tipo de situaciones](practica-2.md)
 
 #### Práctica 3
 En la práctica 3 utilizamos Jupyter para elaborar notebooks en dicha plataforma. El lenguaje de programación que utilizamos en estos notebooks fue el de Python3. En dicha practica creamos diversos notebooks utilizando pandas o folium entre otras librerías, y descargando dichos notebooks en los formatos "ipynb" y "html"
 
 Enlaces:
 
--[Explicación de la práctica 3](practica-3.md)
--[API COVID 19 Pandas en html]
--[API COVID 19 Pandas en ipynb](python-api-covid19-pandas.ipynb)
--[API Pandas Folium en ipynb](api-pandas-folium.ipynb)
--[API Pandas folium en html]
--[Pruebas con python en ipynb](python-prueba.ipynb)
+- [Explicación de la práctica 3](practica-3.md)
+- [API COVID 19 Pandas en html]
+- [API COVID 19 Pandas en ipynb](python-api-covid19-pandas.ipynb)
+- [API Pandas Folium en ipynb](api-pandas-folium.ipynb)
+- [API Pandas folium en html]
+- [Pruebas con python en ipynb](python-prueba.ipynb)
 
 #### Práctica 4
 La práctica 4 consistió en en la elaboración de un notebook en Jupyter con Python donde se utiliza todo lo aprendido en la práctica anterior. Se tenía que elaborar una visualización y un análisis de los datos que escogieramos de una base de datos de nuestra elección. En mi caso, basé esta práctica en el contratación de medios por parte del [Ayuntamiento de Zaragoza](https://www.zaragoza.es/sede/)
 
 Enlaces: 
 
--[Pago por contratación de medios en Zaragoza en ipynb](practica-4.ipynb)
--[Pago por contratación de medios en Zaragoza en html](practica-4.html) 
--[Explicación de la práctica 4](practica-4.md)
+- [Pago por contratación de medios en Zaragoza en ipynb](practica-4.ipynb)
+- [Pago por contratación de medios en Zaragoza en html](practica-4.html) 
+- [Explicación de la práctica 4](practica-4.md)
 
 #### Anexo
 Además en este mismo repositorio se encuentra un archivo que muestra la metodología que se ha empleado a lo largo del curso: [Metodología](metodologia.md)
