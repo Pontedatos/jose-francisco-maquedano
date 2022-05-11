@@ -28,6 +28,7 @@ Enlaces:
 - [API Pandas Folium en ipynb](api-pandas-folium.ipynb)
 - [API Pandas folium en html](api-pandas-folium.html)
 - [Pruebas con python en ipynb](python-prueba.ipynb)
+- [Datos de la API COVID 19 Pandas en CSV](esvsit.csv)
 
 #### Práctica 4
 La práctica 4 consistió en en la elaboración de un notebook en Jupyter con Python donde se utiliza todo lo aprendido en la práctica anterior. Se tenía que elaborar una visualización y un análisis de los datos que escogieramos de una base de datos de nuestra elección. En mi caso, basé esta práctica en el contratación de medios por parte del [Ayuntamiento de Zaragoza](https://www.zaragoza.es/sede/)
